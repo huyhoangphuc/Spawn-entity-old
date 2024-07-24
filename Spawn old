@@ -13,7 +13,7 @@ local Camera = workspace.CurrentCamera
 
 local SelfModules = {
     DefaultConfig = loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/Spawn-entity-old/main/README.md"))(),
-    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))(),
+    Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/Spawn-entity-old/main/scrof"))(),
 }
 
 local FindPartOnRayWithIgnoreList = workspace.FindPartOnRayWithIgnoreList
